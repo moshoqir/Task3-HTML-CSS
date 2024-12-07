@@ -1,0 +1,47 @@
+body{
+    background-color: #FFF7F0;
+}
+
+.div1{
+    border: 1px solid black;
+    background-color: white;
+    width: 700px;
+}
+
+.mark1, .mark2{
+background-color: #FDCA96  ;
+font-weight: bold;
+}
+
+.mark3{
+    background-color: #FDFD96;
+    font-weight: bold;
+}
+
+.div2{
+    border: 2px dotted black;
+    background-color: white;
+    width: 700px;
+}
+
+.div3{
+    border: 2px dotted red;
+    background-color: white;
+    width: 665px;
+    margin: 15px;
+}
+
+.div4{
+    border: 1px solid black;
+    background-color: white;
+    width: 700px;
+}
+
+.div4 *{
+    color: #800080;
+}
+
+.mark4{
+    background-color: #FDFD96;
+    font-weight: bold;
+}

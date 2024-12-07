@@ -1,0 +1,35 @@
+h3{
+    text-decoration: underline;
+}
+.p1{
+    color: blue;
+}
+.link1{
+    color: orange;
+}
+
+
+
+
+.link2{
+    color: red;
+}
+
+#ulblue{
+    color:blue
+}
+
+.link3{
+    display: flow;
+    margin-left: 38px;
+    margin-top: -20px;
+    color: red;
+}
+
+.link4{
+    display: flow;
+    margin-left: 35px;
+    margin-top: -19px;
+    color: red;
+
+}

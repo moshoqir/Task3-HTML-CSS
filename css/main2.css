@@ -1,0 +1,18 @@
+.body{
+    display: flow;
+}
+
+.head1{
+    color: orange;
+}
+
+.head2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 500px;
+
+}
+
+#p2{
+    font-style: oblique;
+    margin-left: 500px;
+}
